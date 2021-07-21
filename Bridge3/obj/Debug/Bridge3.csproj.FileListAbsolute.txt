@@ -1,0 +1,7 @@
+C:\Users\Anastasia\Desktop\entrega\Bridge3\bin\Debug\Bridge3.exe.config
+C:\Users\Anastasia\Desktop\entrega\Bridge3\bin\Debug\Bridge3.exe
+C:\Users\Anastasia\Desktop\entrega\Bridge3\bin\Debug\Bridge3.pdb
+C:\Users\Anastasia\Desktop\entrega\Bridge3\obj\Debug\Bridge3.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\entrega\Bridge3\obj\Debug\Bridge3.exe
+C:\Users\Anastasia\Desktop\entrega\Bridge3\obj\Debug\Bridge3.pdb
+C:\Users\Anastasia\Desktop\entrega\Bridge3\obj\Debug\Bridge3.csprojAssemblyReference.cache

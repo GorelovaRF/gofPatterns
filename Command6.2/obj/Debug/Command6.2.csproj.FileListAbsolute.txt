@@ -1,0 +1,6 @@
+C:\Users\Anastasia\Desktop\entrega\Command6.2\bin\Debug\Command6.2.exe.config
+C:\Users\Anastasia\Desktop\entrega\Command6.2\bin\Debug\Command6.2.exe
+C:\Users\Anastasia\Desktop\entrega\Command6.2\bin\Debug\Command6.2.pdb
+C:\Users\Anastasia\Desktop\entrega\Command6.2\obj\Debug\Command6.2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\entrega\Command6.2\obj\Debug\Command6.2.exe
+C:\Users\Anastasia\Desktop\entrega\Command6.2\obj\Debug\Command6.2.pdb

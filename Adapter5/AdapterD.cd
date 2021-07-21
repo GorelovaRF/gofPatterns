@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Adapter5.ServidorWeb">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>SerivdorWeb.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Documento" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Adapter5.ComponentePDF">
+    <Position X="7.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAIgAAAAAAAAQAAAAAAACAACAgA=</HashCode>
+      <FileName>ComponentePDF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adapter5.Adapter">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEAAAAAAAAAAQCAAAACAAAAAAgA=</HashCode>
+      <FileName>Adapter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ComponentePDF" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Adapter5.DocumentoHTML">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEBAEAAAAAAAQAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DocumentoHTML.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Adapter5.Documento">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Documento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

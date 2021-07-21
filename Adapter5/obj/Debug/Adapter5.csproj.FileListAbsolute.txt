@@ -1,0 +1,7 @@
+C:\Users\Anastasia\Desktop\entrega\Adapter5\bin\Debug\Adapter5.exe.config
+C:\Users\Anastasia\Desktop\entrega\Adapter5\bin\Debug\Adapter5.exe
+C:\Users\Anastasia\Desktop\entrega\Adapter5\bin\Debug\Adapter5.pdb
+C:\Users\Anastasia\Desktop\entrega\Adapter5\obj\Debug\Adapter5.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\entrega\Adapter5\obj\Debug\Adapter5.exe
+C:\Users\Anastasia\Desktop\entrega\Adapter5\obj\Debug\Adapter5.pdb
+C:\Users\Anastasia\Desktop\entrega\Adapter5\obj\Debug\Adapter5.csprojAssemblyReference.cache

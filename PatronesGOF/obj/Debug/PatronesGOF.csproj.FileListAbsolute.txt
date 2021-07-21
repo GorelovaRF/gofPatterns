@@ -1,0 +1,6 @@
+C:\Users\Anastasia\Desktop\entrega\PatronesGOF\bin\Debug\PatronesGOF.exe.config
+C:\Users\Anastasia\Desktop\entrega\PatronesGOF\bin\Debug\PatronesGOF.exe
+C:\Users\Anastasia\Desktop\entrega\PatronesGOF\bin\Debug\PatronesGOF.pdb
+C:\Users\Anastasia\Desktop\entrega\PatronesGOF\obj\Debug\PatronesGOF.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\entrega\PatronesGOF\obj\Debug\PatronesGOF.exe
+C:\Users\Anastasia\Desktop\entrega\PatronesGOF\obj\Debug\PatronesGOF.pdb

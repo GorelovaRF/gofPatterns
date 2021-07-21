@@ -1,0 +1,7 @@
+C:\Users\Anastasia\Desktop\entrega\Composite4\bin\Debug\Composite4.exe.config
+C:\Users\Anastasia\Desktop\entrega\Composite4\bin\Debug\Composite4.exe
+C:\Users\Anastasia\Desktop\entrega\Composite4\bin\Debug\Composite4.pdb
+C:\Users\Anastasia\Desktop\entrega\Composite4\obj\Debug\Composite4.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\entrega\Composite4\obj\Debug\Composite4.exe
+C:\Users\Anastasia\Desktop\entrega\Composite4\obj\Debug\Composite4.pdb
+C:\Users\Anastasia\Desktop\entrega\Composite4\obj\Debug\Composite4.csprojAssemblyReference.cache

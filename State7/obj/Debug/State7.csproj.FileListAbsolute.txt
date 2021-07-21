@@ -1,0 +1,7 @@
+C:\Users\Anastasia\Desktop\entrega\State7\bin\Debug\State7.exe.config
+C:\Users\Anastasia\Desktop\entrega\State7\bin\Debug\State7.exe
+C:\Users\Anastasia\Desktop\entrega\State7\bin\Debug\State7.pdb
+C:\Users\Anastasia\Desktop\entrega\State7\obj\Debug\State7.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\entrega\State7\obj\Debug\State7.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\entrega\State7\obj\Debug\State7.exe
+C:\Users\Anastasia\Desktop\entrega\State7\obj\Debug\State7.pdb
